@@ -1,4 +1,4 @@
-# Changing-data-in-R
+# Data manipulation in R
 This repository shows how I made some changes in data in R.
 # About the project and dataset
 In this project, i reviewed a scenario and focused on manipulating and changing real data in R using functions, statistical summaries to explore your data and presented  insights for stakeholders. The dataset is for a hotel booking company that was created after querying a database to combine two different tables from different hotels. This dataset contains information on hotel bookings. Each booking is a row in the dataset, and each column contains information such as what type of hotel was booked, when the booking took place, and how far in advance the booking took place (the 'lead_time' column). This activity will focus on using functions to conduct basic data manipulation. The link to the dataset is below.
